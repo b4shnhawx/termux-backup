@@ -8,3 +8,7 @@ In summary what it does is:
 - Searches for backups older than 7 days and deletes them.
 - Sends a notification to the mobile when it finishes (OK or ERROR)
 - (extra) With Drive sync I synchronize the path of Termux to have everything in Drive
+
+<p align="center">
+  <img src="https://github.com/davidahid/Hack-Utils/blob/master/images/banner_menu_0.7.1.png">
+</p>
