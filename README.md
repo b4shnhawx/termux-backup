@@ -10,5 +10,17 @@ In summary what it does is:
 - (extra) With Drive sync I synchronize the path of Termux to have everything in Drive
 
 <p align="center">
-  <img src="https://github.com/davidahid/Hack-Utils/blob/master/images/banner_menu_0.7.1.png">
+  <img src="https://github.com/b4shnhawx/termux-backup/blob/main/images/bash-script.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/b4shnhawx/termux-backup/blob/main/images/files.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/b4shnhawx/termux-backup/blob/main/images/drive-sync.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/b4shnhawx/termux-backup/blob/main/images/drive.jpg">
 </p>
